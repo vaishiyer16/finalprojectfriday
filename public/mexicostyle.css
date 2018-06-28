@@ -1,0 +1,37 @@
+
+body{font-family:script; color:white;  background-image: url(http://www.wondermondo.com/Images/NAmerica/Mexico/Yucatan/ChichenItzaCastillo.jpg); 
+  background-size: cover; 
+  background-repeat: no-repeat;}
+
+body{
+  font-size: 200%;
+  text-align: center;
+  color: white;
+}
+
+head{font-size: 100%;
+      text-align}
+
+#title { font-size: 300%;
+  color : black;
+}
+
+#tourist_locations { font-size: 100%; text-align: center;
+color: black;
+position: absolute;
+top: 5px;
+left: 1100px}
+
+#restaurants {font-size: 100%; text-align: center;
+color: black;
+  position: absolute;
+  left: 580px;
+  top: 270px
+}
+
+#hotels {font-size: 100%; text-align: center;
+color: black ;position: absolute;
+  left: 50px;
+  top: 500px
+}
+

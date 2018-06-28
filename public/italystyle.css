@@ -1,0 +1,36 @@
+body{font-family:script; color:Aliceblue;  background-image: url(https://exclusivesmedia.webjet.com.au/uploads/2016/09/Image8-95.jpg); 
+  background-size: cover; 
+  background-repeat: no-repeat;}
+
+body{
+  font-size: 200%;
+  text-align: center;
+  color: White;
+}
+
+head{font-size: 100%;
+      text-align}
+
+#title { font-size: 300%;
+  color : white;
+}
+
+#tourist_locations { font-size: 100%; text-align: center;
+color: white;
+position: absolute;
+top: 5px;}
+
+#restaurants {font-size: 100%; text-align: center;
+color: white;
+  position: absolute;
+  left: 550px;
+  top: 500px
+}
+
+#hotels {font-size: 100%; text-align: center;
+color: white;position: absolute;
+  left: 1000px;
+  top: 5px
+}
+
+

@@ -1,0 +1,34 @@
+body{font-family:script; color:white;  background-image: url(https://cdn.lifehack.org/wp-content/uploads/2015/05/rsz_taj_mahal_india.jpg); 
+  background-size: cover; 
+  background-repeat: no-repeat;}
+
+body{
+  font-size: 200%;
+  text-align: center;
+  color: White;
+}
+
+head{font-size: 100%;
+      text-align}
+
+#title { font-size: 300%;
+  color : Black;
+}
+
+#tourist_locations { font-size: 100%; text-align: center;
+color: Black;
+position: absolute;
+top: 5px;
+left: 50px}
+
+#restaurants {font-size: 100%; text-align: center;
+color: Black;
+  position: absolute;
+  left: 580px;
+  top: 500px
+}
+
+#hotels {font-size: 100%; text-align: center;
+color: Black ;position: absolute;
+  left: 1110px;
+  top: 5px}

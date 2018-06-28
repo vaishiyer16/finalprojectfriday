@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://petapixel.com/assets/uploads/2017/01/northamericatripfeat-800x420.jpg);
+  background-size: cover; background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 800%;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-family: 'Shadows Into Light Two';
+}
+
+button{
+  font-size: 300%;
+  text-align: center;
+}
