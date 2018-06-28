@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+
+body {background-image: url(https://www.adoration4adventure.com/wp-content/uploads/2016/03/Untitled-design-2-e1472558358619.png); background-size: cover;
+}
+
+h1 {text-align: center; color: black; font-size: 800%; position: absolute; top: 30%; left: 50%; transform: translateX(-50%) translateY(-50%); font-family: 'Shadows Into Light Two', cursive; text-shadow: 5px;color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;}
+
+button{font-size: 300%; text-align: center;}
