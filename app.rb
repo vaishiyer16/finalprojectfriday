@@ -37,4 +37,19 @@ class MyApp < Sinatra::Base
     erb :france
   end
 
+  get '/views/italy' do
+    erb :italy
+  end
+
+  get '/views/india' do
+    erb :india
+  end
+
+  get '/views/greece' do
+    erb :greece
+  end
+
+  get '/views/mexico' do
+    erb :mexico
+  end
 end
