@@ -1,6 +1,7 @@
 require 'bundler'
 Bundler.require
 
+
 class MyApp < Sinatra::Base
 
  get '/' do
@@ -23,10 +24,6 @@ class MyApp < Sinatra::Base
    erb :europe
  end
 
-# get '/views/france'
-#   erb :france
-# end
-
   get '/views/northamerica' do
     erb :northamerica
   end
@@ -34,4 +31,10 @@ class MyApp < Sinatra::Base
   get '/views/southamerica' do
     erb :southamerica
   end
+
+  #europe countries
+  get '/views/france' do
+    erb :france
+  end
+
 end
