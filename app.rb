@@ -104,7 +104,7 @@ class MyApp < Sinatra::Base
     erb :south
   end
   get '/views/morrocco' do
-    erb :morrocco
+    erb :morocco
   end
 
   get '/views/peru' do
@@ -112,9 +112,11 @@ class MyApp < Sinatra::Base
   end
 
   get '/views/peru' do
-    erb :southaf
+    erb :peru
   end
 
-
+  get '/views/southafrica' do
+    erb :southaf
+  end
 
 end
