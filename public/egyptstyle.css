@@ -1,0 +1,15 @@
+body {
+background-image: url(https://cdn.thinglink.me/api/image/711033658135281665/1240/10/scaletowidth); background-size: cover; background-repeat: no-repeat;}
+
+
+h1 {font-size: 600%;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  position: relative; color: black; text-shadow: 7px 6px white;}
+
+h2 { font-size: 300%;
+  font family:'Great Vibes', cursive;
+ color: white;
+}
+
+ul {font-size: 200%; color: white;}

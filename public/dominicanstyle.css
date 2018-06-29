@@ -1,0 +1,38 @@
+body{font-family:script; color:white;  background-image: url(http://hauteliving.com/wp-content/uploads/2013/10/AvalonBaynight.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;}
+
+body{
+  font-size: 200%;
+  text-align: center;
+  color: White;
+}
+
+head{font-size: 100%;
+      text-align}
+
+#title { font-size: 300%;
+  color : White;
+  position: absolute;
+  top: 5px;
+  left: 400px;
+}
+
+#tourist_locations { font-size: 100%; text-align: center;
+color: White;
+position: absolute;
+top: 5px;
+left: 0px}
+
+#restaurants {font-size: 100%; text-align: center;
+color: White;
+  position: absolute;
+  left: 580px;
+  top: 270px
+}
+
+#hotels {font-size: 100%; text-align: center;
+color: white ;position: absolute;
+  left: 1110px;
+  top: 425px
+}
