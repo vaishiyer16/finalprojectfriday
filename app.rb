@@ -96,6 +96,24 @@ class MyApp < Sinatra::Base
     erb :egypt
   end
 
+  get '/views/dominican' do
+    erb :dominican
+  end
+
+  get '/views/south' do
+    erb :south
+  end
+  get '/views/morrocco' do
+    erb :morrocco
+  end
+
+  get '/views/peru' do
+    erb :peru
+  end
+
+  get '/views/peru' do
+    erb :southaf
+  end
 
 
 
