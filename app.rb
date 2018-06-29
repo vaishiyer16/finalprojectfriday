@@ -52,4 +52,20 @@ class MyApp < Sinatra::Base
   get '/views/mexico' do
     erb :mexico
   end
+
+  get '/views/unitedkingdom' do
+    erb :unitedkingdom
+  end
+
+  get '/views/china' do
+    erb :China
+  end
+
+  get '/views/japan' do
+    erb :Japan
+  end
+  
+
+
+
 end
